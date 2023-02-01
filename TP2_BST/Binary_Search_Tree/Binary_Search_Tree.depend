@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669252547 source:c:\users\ducma\onedrive\desktop\licence3\algo_et_dev\tp2_bst\binary_search_tree\arbrebinome.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
